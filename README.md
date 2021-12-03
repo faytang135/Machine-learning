@@ -1,8 +1,5 @@
-# Python
-Project Title
-
-One Paragraph of project description goes here
-Getting Started
+# Machine learning: SVM and Naïve Bayes algorithm
+## The purpsoe of the file to compare two algorithms: SVM and Naive Bayes algorithm in predicting drug types.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 Prerequisites
