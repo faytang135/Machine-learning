@@ -2,9 +2,13 @@
 ## The purpsoe of the file is to compare two algorithms: SVM and Naive Bayes algorithm in predicting drug types.
 
 **Naïve Bayes Classifier**: assumes that the presence of  a particular feature in a class is unrelated to the presence of any other features.
+![image](https://user-images.githubusercontent.com/92997647/144664516-3848996b-6f2b-4a18-a4df-ed4df408308a.png)
+
 
 **Support Vector Machines (SVM)**: a supervised machine learning algorithm by which we can perform Regression and Classification.
 SVM generates the optimal hyperplane in an iterative manner, which is used to minimize an error. The core idea of SVM is to find a maximum marginal hyperplane (MMH) that best divides the dataset into classes. 
+![image](https://user-images.githubusercontent.com/92997647/144664567-fbb3459e-f72a-4fac-99f0-6fbe893c7433.png)
+
 
 **Metrics for evaluating the algorithms**: classification_report and confusion_matrix 
 **Implementation**: Python
